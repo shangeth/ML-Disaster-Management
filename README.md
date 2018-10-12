@@ -8,8 +8,8 @@ Team Member :
 
 ## Problem Statement
 During a disaster, victims panic and call the emergency service thousands at a time. There are two problems in this, 
-1. The person behind the emergency call can handle only one call at a time.
-2. The victims were served on the basis of First-Come-First-Serve as the person can't analyse who needed the help most at the time of disaster.So sometimes victims who needed the help most may not be served first.
+1. The person behind the emergency **call can handle only one call at a time**.
+2. The **victims were served on the basis of First-Come-First-Serve** as the person can't analyse who needed the help most at the time of disaster.So sometimes **victims who needed the help most may not be served first**.
 
 
 ## Machine Learning as the Solution
