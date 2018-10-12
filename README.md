@@ -1,4 +1,10 @@
 # Machine Learning in Disaster Management
+This project is a part of Micosoft's [Codefundo Hackathon](https://codefundo.io/index.html)<br>
+<pre>
+Team Member :
+              Shangeth Rajaa
+              shangethrajaa@gmail.com | +91 7218540834
+</pre>
 
 ## Problem Statement
 During a disaster, victims panic and call the emergency service thousands at a time. There are two problems in this, 
@@ -34,4 +40,9 @@ Social Media (Twitter, Facebook, Whatsapp) is widely used everywhere for fast pa
 ## Feasibility
 1. The task is to make an Intelligence to attend calls and get details from the call , analyse it and decide the action. There is an option to include a real time speaking bot which can get the details as it speaks( with the technologies like google assistant, cortana, siri it is clear that this can be done) . But due to lack of much computation power and datas , this project will not include that in the first prototype , but will try to include the feature if possible later. Tech giants like Google, Microsoft, IBM have the resources and knowledge to implement this idea easily.
 2. This service **can be used even in remote locations as no internet is needed to place a call to the emergency service**.
-3. 
+3. In contries like India, where people speak different languages in different places, there may be a problem as we may want the **Machine to understand and respond in the language spoken by the victim**, which is hard but doable. In this project , english is going to be the language of conversation, which can still be used by many parts of the world.
+
+
+## The technical part
+This project will need intensive Natural Language Processing ,data and computation power.<br>
+Microsoft's Azure is going to be used for the computation part, and GitHub for the version control.
