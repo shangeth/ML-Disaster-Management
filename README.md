@@ -1,5 +1,5 @@
 # Machine Learning in Disaster Management
-This project is a part of Micosoft's [Codefundo Hackathon](https://codefundo.io/index.html)<br>
+This project is a part of Microsoft's [Codefundo Hackathon](https://codefundo.io/index.html)<br>
 <pre>
 Team Member :
               Shangeth Rajaa
