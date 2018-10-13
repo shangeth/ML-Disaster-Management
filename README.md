@@ -4,6 +4,7 @@ This project is a part of Microsoft's [Codefundo Hackathon](https://codefundo.io
 Team Member :
               Shangeth Rajaa
               shangethrajaa@gmail.com | +91 7218540834
+              BITS Pilani Goa Campus
 </pre>
 
 ## Problem Statement
