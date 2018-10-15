@@ -47,3 +47,7 @@ Social Media (Twitter, Facebook, Whatsapp) is widely used everywhere for fast pa
 ## The technical part
 This project will need intensive Natural Language Processing ,data and computation power.<br>
 Microsoft's Azure is going to be used for the computation part, and GitHub for the version control.
+
+### Automated emergency call service
+The AI will analyse the calls of the victims and decide/prioritize which caller or location needs help immediatly.
+Caller voice recorded ---> Azure Sppech to text API --> Analyse the text using a Model/ predefined model to analyse the sentiment and prioritize it in a list of emergency helps needed.
